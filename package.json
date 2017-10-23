@@ -1,26 +1,19 @@
 {
-  "name": "sir gay",
+  "name": "sirgay",
   "version": "1.0.0",
-  "devDependencies": {
-    "autoprefixer-core": "6.0.1",
-    "grunt": "1.0.1",
-    "grunt-autoprefixer": "3.0.4",
-    "grunt-browser-sync": "2.2.0",
-    "grunt-cli": "1.2.0",
-    "grunt-contrib-clean": "^1.1.0",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-imagemin": "2.0.1",
-    "grunt-contrib-less": "1.4.1",
-    "grunt-contrib-watch": "1.0.0",
-    "grunt-css-mqpacker": "3.0.1",
-    "grunt-csso": "2.2.0",
-    "grunt-postcss": "0.8.0",
-    "grunt-svgmin": "4.0.0",
-    "grunt-svgstore": "1.0.0",
-    "load-grunt-tasks": "3.5.2"
-  },
+  "description": "",
+  "main": "Gruntfile.js",
   "scripts": {
-    "build": "grunt build",
-    "start": "npm run build && grunt serve"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pleaseduck/sirGay.git"
+  },
+  "author": "pleaseduke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pleaseduck/sirGay/issues"
+  },
+  "homepage": "https://github.com/pleaseduck/sirGay#readme"
 }
